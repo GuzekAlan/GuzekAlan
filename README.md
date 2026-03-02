@@ -1,7 +1,5 @@
 ## Hi, I'm Alan
 
-- 🎓 - [AGH UST](https://www.agh.edu.pl/)
-
 - 🏢 - [Software Mansion](https://swmansion.com/)
 
 - 📌 - Cracow, Poland
@@ -17,3 +15,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GuzekAlan&show_icons=true)
 
 [![](https://visitcount.itsvg.in/api?id=GuzekAlan&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+:trollface:
